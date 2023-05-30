@@ -11,5 +11,8 @@
   "bugs": {
     "url": "https://github.com/Mikord/cadesplugin_api/issues"
   },
+  "publishConfig": {
+    "registry": "https://repo.micord.ru/repository/npm-private/"
+  },
   "homepage": "https://github.com/Mikord/cadesplugin_api#readme"
 }
