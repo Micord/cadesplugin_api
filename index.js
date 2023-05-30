@@ -11,7 +11,7 @@ var cadesplugin = function () {
   var isYaBrowser = 0;
   var failed_extensions = 0;
 
-  var canPromise = !!window.Promise;
+  var canPromise = false;
   var cadesplugin;
 
   if (canPromise) {
