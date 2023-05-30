@@ -546,7 +546,7 @@ var cadesplugin = function () {
   }
 
   //Export
-  cadesplugin.JSModuleVersion = "2.0.3";
+  cadesplugin.JSModuleVersion = "2.0.4";
   cadesplugin.async_spawn = async_spawn;
   cadesplugin.set = set_pluginObject;
   cadesplugin.set_log_level = set_log_level;
