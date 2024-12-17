@@ -754,3 +754,4 @@
 
   return cadesplugin;
 })();
+module.exports = cadesplugin;
