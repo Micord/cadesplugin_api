@@ -12,7 +12,7 @@
   var isEdge = 0;
   var failed_extensions = 0;
 
-  var canPromise = !!window.Promise;
+  var canPromise = true;
   var cadesplugin;
 
   if (canPromise) {
